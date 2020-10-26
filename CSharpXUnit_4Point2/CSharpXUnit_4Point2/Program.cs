@@ -14,5 +14,10 @@ namespace CSharpXUnit_4Point2
         {
             return number / 2;
         }
+
+        public static bool PerfectSquare(int number)
+        {
+            return true;
+        }
     }
 }
